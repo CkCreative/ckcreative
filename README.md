@@ -6,6 +6,6 @@ Building web applications as well as hybrid mobile and desktop software **since 
 
 Consistently improving approach to software design, application development and programming, product deployment and maintenance as well as collaboration **(agile methodologies)** and team communication. 
 
-Professional, creative, curious, a continuous learner and prefers working in a team.*
+Professional, creative, curious, a continuous learner and prefers working in a team.
 
 ***
