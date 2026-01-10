@@ -1,6 +1,6 @@
-### Hi there 👋;
+### Hi there;
 
-Bridging the gap between hardware and software, I'm a **Full Stack Engineer** with an Electrical & Electronic Engineering background. Since 2015, I've been building & deploying web, IoT & mobile/desktop apps; in the process mastering **Python** (Django), **C#** (.NET) & **JavaScript** (React, React Native, Vue.js, Node.js). Elixir is next on my conquest. I'm an **Agile & TDD** champion who thrives in collaborative environments, turning ideas into impactful solutions. Professional, creative, and always learning, I'm your ideal teammate.
+Bridging the gap between hardware and software, I'm a **Full Stack Engineer** with an Electrical & Electronic Engineering background. Since 2015, I've been building & deploying web, IoT & mobile/desktop apps. I have willed excellence to existence through **Python** (Django), **C#** (.NET) & **JavaScript** (React, React Native, Vue.js, Node.js) and now Rust. I'm an **Agile & TDD** champion who thrives in collaborative environments, turning ideas into impactful solutions. Professional, creative, and always learning, I'm your ideal teammate.
 
 ***
 
@@ -12,7 +12,7 @@ Bridging the gap between hardware and software, I'm a **Full Stack Engineer** wi
 **UI/UX:** Figma, Photoshop, Affinity Designer
 **Architectures:** Client-Server, Microservices, SPAs, PWAs, Serverless
 **Collaboration:** Git, Github, Jira, Bitbucket,
-**Other:** Kubernetes, Java, Golang, Elixir, Terraform, .NET, PHP, Laravel, Flutter, Cordova, React Native, Redis, RabbitMQ, AWS, Linux, Github Actions, Docker, WordPress
+**Other:** Rust, Kubernetes, Java, Golang, Elixir, Terraform, .NET, PHP, Laravel, Flutter, Cordova, React Native, Redis, RabbitMQ, AWS, Linux, Github Actions, Docker, WordPress
 
 ***
 
