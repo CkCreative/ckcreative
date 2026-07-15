@@ -75,7 +75,7 @@ I regularly work with Rust, Python, Django, JavaScript and TypeScript, Flutter, 
 
 ## A short history
 
-I first found my way into programming through a Nokia phone in 2011. With limited computer access, I wrote programs on paper and used a makeshift Android setup to run C. I moved from local websites and mobile applications into professional web development in 2015, and later into the infrastructure, identity systems, and developer tools I work on today.
+My route into tech began with a Nokia phone in 2011, which gave me my first way onto the internet. I later moved to an Android phone and, with computer access still limited, wrote programs on paper and found a makeshift way to run C. A laptop came afterward; that is when I began building blogs, websites for local businesses, and mobile applications. I entered professional web development in 2015 and later moved into infrastructure, identity systems, and developer tools.
 
 The longer version is on the [DRM HSE About page](https://www.drmhse.com/about/).
 
