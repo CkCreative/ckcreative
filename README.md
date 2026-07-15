@@ -40,7 +40,6 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [Jules](https://github.com/CkCreative/flutter_native_jules) — native Flutter client for reviewing Jules sessions, agent conversations, and generated code changes.
 - [Filesystem MCP](https://github.com/CkCreative/filesystem-mcp) — Docker-isolated MCP server for controlled filesystem work and whitelisted commands.
 - [MRZ with OpenCV.js and Tesseract.js](https://github.com/CkCreative/mrz_opencv_tesseract_js) — browser-based extraction and OCR of two-line and three-line machine-readable zones.
-- [ImGui Starter](https://github.com/CkCreative/ImguiStarter) — starter setup for Dear ImGui with ImPlot.
 
 ### Identity, web, and infrastructure
 
@@ -53,33 +52,6 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 ### Applications and utilities
 
 - [Binance Spot Trading Bot](https://github.com/CkCreative/binance-spot-trading-bot) — configurable Node.js spot-trading experiment with Docker, notifications, and a control UI. This is alpha software, not financial advice.
-
-<details>
-<summary><strong>Earlier repositories, prototypes, and exercises</strong></summary>
-
-These repositories are retained as a record of earlier work. They are not presented as maintained production software.
-
-- [ckcreative](https://github.com/CkCreative/ckcreative) — static hosting for the Fast Food Fast interface.
-- [apa-test](https://github.com/CkCreative/apa-test) — Vue application exercise.
-- [app-releases](https://github.com/CkCreative/app-releases) — mobile application release artifacts.
-- [ello_test](https://github.com/CkCreative/ello_test) — TypeScript application exercise.
-- [lenique_shipping](https://github.com/CkCreative/lenique_shipping) — small shipping-data utility.
-- [auto-test-app](https://github.com/CkCreative/auto-test-app) — TypeScript automation exercise.
-- [read_csv](https://github.com/CkCreative/read_csv) — CSV-processing exercise.
-- [text_parser](https://github.com/CkCreative/text_parser) — number extraction and summation parser.
-- [react_test](https://github.com/CkCreative/react_test) — React application exercise.
-- [sampledocs](https://github.com/CkCreative/sampledocs) — GitBook documentation experiment.
-- [zohali](https://github.com/CkCreative/zohali) — Hugo and Stackbit Jamstack site.
-- [aptoet](https://github.com/CkCreative/aptoet) — earlier website project.
-- [loguard](https://github.com/CkCreative/loguard) — earlier mobile application work.
-- [denostuff](https://github.com/CkCreative/denostuff) — early Deno experiments.
-- [gatsby-ecommerce](https://github.com/CkCreative/gatsby-ecommerce) — Gatsby Cloud commerce experiment.
-- [majestic-amaranth](https://github.com/CkCreative/majestic-amaranth) — earlier frontend build.
-- [terrific-lettuce](https://github.com/CkCreative/terrific-lettuce) — earlier frontend build.
-- [belkirk-jekyll-demo](https://github.com/CkCreative/belkirk-jekyll-demo) — Jekyll theme demonstration.
-- [oauth-playlist](https://github.com/CkCreative/oauth-playlist) — early OAuth experiment.
-
-</details>
 
 ## Engineering focus
 
