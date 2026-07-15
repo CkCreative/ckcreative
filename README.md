@@ -14,7 +14,7 @@ Open-source API and SDK infrastructure for B2B and B2B2C authentication. AuthOS 
 
 ### [AI Code Terminal](https://github.com/drmhse/ai-code-terminal)
 
-A mobile-first AI code terminal for inspecting repositories, operating terminals, running coding agents, reviewing diffs, and shipping work from a phone, tablet, desktop, or browser. The public repository contains the Flutter client, documentation, screenshots, and web demo.
+A mobile-first AI code terminal for inspecting repositories, operating terminals, running coding agents, reviewing diffs, and shipping work from a phone, tablet, desktop, or browser. The public repository contains the Flutter client, documentation, screenshots, and web demo, while matching Linux backend binaries are available to everyone through GitHub Releases.
 
 ### [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust)
 
@@ -29,7 +29,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 ### DRM HSE systems
 
 - [AuthOS](https://github.com/drmhse/AuthOS) — Rust authentication infrastructure, SDKs, adapters, deployment bundles, and documentation.
-- [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first client and public product surface for agent-driven development work.
+- [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first Flutter client with publicly downloadable Linux backend releases for agent-driven development work.
 - [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and structured output.
 - [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui) — desktop endpoint inventory and supply-chain exposure review.
 - [AuthOS Skills](https://github.com/drmhse/authos_skill) — source-verified agent skills for implementing and operating AuthOS.
