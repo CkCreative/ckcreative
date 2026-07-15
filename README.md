@@ -10,7 +10,7 @@ Based in Nairobi, Kenya. I publish engineering field notes at [DRM HSE](https://
 
 ### [AuthOS](https://github.com/drmhse/AuthOS)
 
-Open-source API and SDK infrastructure for B2B and B2B2C authentication. AuthOS combines a Rust API, standalone Linux and Docker distributions, TypeScript SDKs, framework adapters, and an embedded web client. It is currently in its pre-1.0 release series.
+Open-source API and SDK infrastructure for B2B and B2B2C authentication. AuthOS combines a Rust API, standalone Linux and Docker distributions, TypeScript SDKs, framework adapters, and an embedded web client.
 
 ### [AI Code Terminal](https://github.com/drmhse/ai-code-terminal)
 
