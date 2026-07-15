@@ -48,16 +48,11 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [Phoenix 1.5.1 + Guardian](https://github.com/CkCreative/phoenix_151_guardian) — barebones Phoenix authentication example with a protected route.
 - [Hugo + Tailwind CSS + daisyUI](https://github.com/CkCreative/hugo-tailwind-daisyui) — minimal starter with one development command for Hugo and Tailwind.
 - [Go REST starter](https://github.com/CkCreative/rest) — small starting point for Go APIs.
-- [Netlify StatusKit](https://github.com/CkCreative/netlify-statuskit) — status-page deployment experiment for Netlify.
 - [Useful Linux commands](https://github.com/CkCreative/important_linux_commands) — practical command notes collected from development and server administration work.
 
 ### Applications and utilities
 
 - [Binance Spot Trading Bot](https://github.com/CkCreative/binance-spot-trading-bot) — configurable Node.js spot-trading experiment with Docker, notifications, and a control UI. This is alpha software, not financial advice.
-- [Compound Interest in Rust](https://github.com/CkCreative/compound_interest_rust) — daily compounding-interest calculator.
-- [TradingView Scripts](https://github.com/CkCreative/TradingViewScripts) — indicators and experiments for TradingView.
-- [Fast Food Fast API](https://github.com/CkCreative/fff) — Flask REST API for a food-ordering application.
-- [Fast Food Fast UI](https://github.com/CkCreative/fast-food-fast) — original HTML, CSS, and JavaScript client built during the Andela fellowship journey.
 
 <details>
 <summary><strong>Earlier repositories, prototypes, and exercises</strong></summary>
