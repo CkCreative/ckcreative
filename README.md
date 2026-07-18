@@ -1,12 +1,12 @@
 # Mike CK
 
-Software engineer and infrastructure manager building self-hosted systems, developer tools, and applied AI software. I have a background in Electrical and Electronic Engineering and have worked across application development and infrastructure since 2015.
+I am a senior software engineer with a background in Electrical and Electronic Engineering. I have worked professionally in software development since 2015.
 
-Based in Nairobi, Kenya. I publish engineering field notes at [DRM HSE](https://www.drmhse.com/) and build open-source software through [@drmhse](https://github.com/drmhse).
+In my free time, I build open-source software through [@drmhse](https://github.com/drmhse), explore cloud infrastructure, and publish engineering field notes at [DRM HSE](https://www.drmhse.com/).
 
 [DRM HSE](https://www.drmhse.com/) · [Open-source organization](https://github.com/drmhse) · [LinkedIn](https://www.linkedin.com/in/mike_ck) · [Email](mailto:info@drmhse.com)
 
-## Current work
+## Current open-source projects
 
 ### [AuthOS](https://github.com/drmhse/AuthOS)
 
@@ -53,9 +53,9 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 
 - [Binance Spot Trading Bot](https://github.com/CkCreative/binance-spot-trading-bot) — configurable Node.js spot-trading experiment with Docker, notifications, and a control UI. This is alpha software, not financial advice.
 
-## Engineering focus
+## Open-source focus
 
-My current work sits at the intersection of:
+My personal projects currently explore:
 
 - identity, authentication, and self-hosted infrastructure;
 - Rust services, packaging, deployment, and operations;
@@ -63,7 +63,7 @@ My current work sits at the intersection of:
 - local AI, OCR, speech, and structured extraction;
 - web applications and the systems required to keep them understandable and repairable.
 
-I regularly work with Rust, Python, Django, JavaScript and TypeScript, Flutter, PostgreSQL, Docker, Kubernetes, Terraform, AWS, Nginx, Caddy, and GitHub Actions. The project determines the tool, not the other way around.
+The software spans Rust, Python, Django, JavaScript and TypeScript, Flutter, and PostgreSQL. My cloud infrastructure experiments use Docker, Kubernetes, Terraform, AWS, Nginx, Caddy, and GitHub Actions.
 
 ## Writing and field notes
 
@@ -75,7 +75,7 @@ I regularly work with Rust, Python, Django, JavaScript and TypeScript, Flutter, 
 
 ## A short history
 
-My route into tech began with a Nokia phone in 2011, which gave me my first way onto the internet. I later moved to an Android phone and, with computer access still limited, wrote programs on paper and found a makeshift way to run C. A laptop came afterward; that is when I began building blogs, websites for local businesses, and mobile applications. I entered professional web development in 2015 and later moved into infrastructure, identity systems, and developer tools.
+My route into tech began with a Nokia phone in 2011, which gave me my first way onto the internet. I later moved to an Android phone and, with computer access still limited, wrote programs on paper and found a makeshift way to run C. A laptop came afterward; that is when I began building blogs, websites for local businesses, and mobile applications. I entered professional software development in 2015 and now work as a senior software engineer. Open-source identity systems, developer tools, and cloud infrastructure remain part of my free-time work.
 
 ## Contact
 
