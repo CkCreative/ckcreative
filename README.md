@@ -2,7 +2,7 @@
 
 I am a senior software engineer with a background in Electrical and Electronic Engineering. I have worked professionally in software development since 2015.
 
-In my free time, I build open-source software through [@drmhse](https://github.com/drmhse), explore cloud infrastructure, and publish engineering field notes at [DRM HSE](https://www.drmhse.com/).
+Outside work, I build open-source software through [@drmhse](https://github.com/drmhse), explore cloud infrastructure, and publish engineering field notes at [DRM HSE](https://www.drmhse.com/).
 
 [DRM HSE](https://www.drmhse.com/) · [Open-source organization](https://github.com/drmhse) · [LinkedIn](https://www.linkedin.com/in/mike_ck) · [Email](mailto:info@drmhse.com)
 
@@ -75,7 +75,7 @@ The software spans Rust, Python, Django, JavaScript and TypeScript, Flutter, and
 
 ## A short history
 
-My route into tech began with a Nokia phone in 2011, which gave me my first way onto the internet. I later moved to an Android phone and, with computer access still limited, wrote programs on paper and found a makeshift way to run C. A laptop came afterward; that is when I began building blogs, websites for local businesses, and mobile applications. I entered professional software development in 2015 and now work as a senior software engineer. Open-source identity systems, developer tools, and cloud infrastructure remain part of my free-time work.
+My route into tech began with a Nokia phone in 2011, which gave me my first way onto the internet. I later moved to an Android phone and, with computer access still limited, wrote programs on paper and found a makeshift way to run C. A laptop came afterward; that is when I began building blogs, websites for local businesses, and mobile applications. I entered professional software development in 2015 and now work as a senior software engineer.
 
 ## Contact
 
