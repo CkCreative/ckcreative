@@ -20,6 +20,10 @@ A mobile-first AI code terminal for inspecting repositories, operating terminals
 
 A small cross-platform OCR server for PP-OCRv6 detection and recognition. It uses the pure-Rust `tract` ONNX engine, verifies downloaded model weights, runs offline after the first model fetch, and can add an optional structured-understanding stage.
 
+### [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio)
+
+A local CosyVoice3 HTTP service tuned for Apple silicon. It keeps API state separate from a disposable model worker, runs the LLM stage in MLX while flow decoding and vocoding remain in PyTorch, and supports durable idempotent jobs, seed reproducibility, memory telemetry, and optional WhisperX verification.
+
 ### [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui)
 
 A Flutter desktop interface for local developer-machine supply-chain checks using Perplexity's Bumblebee scanner. It provides scan controls, package inventory, exposure findings, diagnostics, history, and threat-catalog management.
@@ -31,6 +35,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [AuthOS](https://github.com/drmhse/AuthOS) — Rust authentication infrastructure, SDKs, adapters, deployment bundles, and documentation.
 - [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first Flutter client with publicly downloadable Linux backend releases for agent-driven development work.
 - [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and structured output.
+- [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio) — hybrid MLX/PyTorch CosyVoice3 service with disposable model workers and durable local synthesis jobs.
 - [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui) — desktop endpoint inventory and supply-chain exposure review.
 - [AuthOS Skills](https://github.com/drmhse/authos_skill) — source-verified agent skills for implementing and operating AuthOS.
 - [Local AI Field Guide](https://github.com/drmhse/local-ai) — self-contained guide to local models, runtimes, quantization, hardware, RAG, and agents.
