@@ -18,7 +18,7 @@ A mobile-first AI code terminal for inspecting repositories, operating terminals
 
 ### [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust)
 
-A small cross-platform OCR server for PP-OCRv6 detection and recognition. It uses the pure-Rust `tract` ONNX engine, verifies downloaded model weights, runs offline after the first model fetch, and can add an optional structured-understanding stage.
+A small cross-platform OCR server for PP-OCRv6 detection and recognition. It uses the pure-Rust `tract` ONNX engine, verifies downloaded model weights, runs offline after the first model fetch, and uses LoRA fine-tuning for its optional structured-understanding model.
 
 ### [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio)
 
@@ -34,7 +34,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 
 - [AuthOS](https://github.com/drmhse/AuthOS) — Rust authentication infrastructure, SDKs, adapters, deployment bundles, and documentation.
 - [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first Flutter client with publicly downloadable Linux backend releases for agent-driven development work.
-- [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and structured output.
+- [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and a LoRA-fine-tuned structured-understanding model.
 - [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio) — CosyVoice3 service optimized to run 2.2× faster at RTF 0.757, with a hybrid MLX/PyTorch pipeline and disposable model workers.
 - [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui) — desktop endpoint inventory and supply-chain exposure review.
 - [AuthOS Skills](https://github.com/drmhse/authos_skill) — source-verified agent skills for implementing and operating AuthOS.
