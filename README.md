@@ -2,9 +2,9 @@
 
 I am a senior software engineer with a background in Electrical and Electronic Engineering. I have worked professionally in software development since 2015.
 
-Outside work, I build open-source software through [@drmhse](https://github.com/drmhse), explore cloud infrastructure, and publish engineering field notes at [DRM HSE](https://www.drmhse.com/).
+Outside work, I build open-source software through [@drmhse](https://github.com/drmhse), explore cloud infrastructure, and publish engineering field notes at [drmhse.com](https://www.drmhse.com/).
 
-[DRM HSE](https://www.drmhse.com/) · [Open-source organization](https://github.com/drmhse) · [LinkedIn](https://www.linkedin.com/in/mike_ck) · [Email](mailto:info@drmhse.com)
+[drmhse.com](https://www.drmhse.com/) · [Open-source organization](https://github.com/drmhse) · [LinkedIn](https://www.linkedin.com/in/mike_ck) · [Email](mailto:info@drmhse.com)
 
 ## Current open-source projects
 
@@ -74,7 +74,7 @@ The software spans Rust, Python, Django, JavaScript and TypeScript, Flutter, and
 
 ## Writing and field notes
 
-[DRM HSE](https://www.drmhse.com/) is where I document engineering decisions, experiments, failures, and repairs across software, infrastructure, AI, and electrical engineering.
+[drmhse.com](https://www.drmhse.com/) is where I document engineering decisions, experiments, failures, and repairs across software, infrastructure, AI, and electrical engineering.
 
 - [Browse all field notes](https://www.drmhse.com/posts/)
 - [Browse by topic](https://www.drmhse.com/categories/)
