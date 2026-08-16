@@ -20,7 +20,7 @@ A mobile-first AI code terminal for inspecting repositories, operating terminals
 
 A small cross-platform OCR server for PP-OCRv6 detection and recognition. It uses the pure-Rust `tract` ONNX engine, verifies downloaded model weights, runs offline after the first model fetch, and uses LoRA fine-tuning for its optional structured-understanding model.
 
-### [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio)
+### [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio-cozyvoice3)
 
 A local CosyVoice3 HTTP service I optimized to run **2.2× faster**, reaching a faster-than-real-time RTF of **0.757** on Apple silicon. It keeps API state separate from a disposable model worker, runs the LLM stage in MLX while flow decoding and vocoding remain in PyTorch, and supports durable idempotent jobs, seed reproducibility, memory telemetry, and optional WhisperX verification.
 
@@ -35,7 +35,8 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [AuthOS](https://github.com/drmhse/AuthOS) — Rust authentication infrastructure, SDKs, adapters, deployment bundles, and documentation.
 - [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first Flutter client with publicly downloadable Linux backend releases for agent-driven development work.
 - [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and a LoRA-fine-tuned structured-understanding model.
-- [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio) — CosyVoice3 service optimized to run 2.2× faster at RTF 0.757, with a hybrid MLX/PyTorch pipeline and disposable model workers.
+- [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio-cozyvoice3) — CosyVoice3 service optimized to run 2.2× faster at RTF 0.757, with a hybrid MLX/PyTorch pipeline and disposable model workers.
+- [tts-rs](https://github.com/drmhse/tts-rs) — local text-to-speech in Rust with voice-cloning speech models, Metal-accelerated on Apple silicon and no Python at runtime.
 - [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui) — desktop endpoint inventory and supply-chain exposure review.
 - [AuthOS Skills](https://github.com/drmhse/authos_skill) — source-verified agent skills for implementing and operating AuthOS.
 - [Local AI Field Guide](https://github.com/drmhse/local-ai) — self-contained guide to local models, runtimes, quantization, hardware, RAG, and agents.
@@ -45,6 +46,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [Jules](https://github.com/CkCreative/flutter_native_jules) — native Flutter client for reviewing Jules sessions, agent conversations, and generated code changes.
 - [Filesystem MCP](https://github.com/CkCreative/filesystem-mcp) — Docker-isolated MCP server for controlled filesystem work and whitelisted commands.
 - [MRZ with OpenCV.js and Tesseract.js](https://github.com/CkCreative/mrz_opencv_tesseract_js) — browser-based extraction and OCR of two-line and three-line machine-readable zones.
+- [social-puppet](https://github.com/drmhse/social_puppet) — drive an Android phone from an agent or script through the accessibility tree, over WebSocket, with no adb session or vision model.
 
 ### Identity, web, and infrastructure
 
