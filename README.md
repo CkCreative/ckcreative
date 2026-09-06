@@ -34,7 +34,7 @@ Three voice-cloning speech models ported to pure Rust with hand-written Metal ke
 
 ### [cargo-turbo](https://github.com/drmhse/cargo-turbo)
 
-A drop-in `cargo` wrapper that makes cold builds fast without patching cargo or rustc — cargo still decides what is stale. Same-checkout cold `check` on rust-analyzer restores in 0.33 s vs 31.5 s (**95×**), a fresh clone in 0.45 s vs 29 s (**65×**), via target snapshots, a shared third-party unit store, and idle-core reclamation on the narrow tail. On crates.io; warm rebuilds stay out of the way entirely.
+A drop-in `cargo` wrapper that makes cold builds fast without patching cargo or rustc — cargo still decides what is stale. Same-checkout cold `check` on rust-analyzer restores in 0.25 s vs 21.7 s (**87×**); a fresh clone compiles only your own crates, 10.05 s vs 25.02 s (**2.5×**), via target snapshots and a shared third-party unit store. On crates.io; warm rebuilds stay out of the way entirely.
 
 ### [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui)
 
@@ -50,7 +50,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and a LoRA-fine-tuned structured-understanding model.
 - [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio-cozyvoice3) — CosyVoice3 service optimized to run 2.2× faster at RTF 0.757, with a hybrid MLX/PyTorch pipeline and disposable model workers.
 - [tts-rs](https://github.com/drmhse/tts-rs) — three voice-cloning models in pure Rust with custom Metal kernels (RTF 0.26), fixture-validated against PyTorch, with resumable offline book narration.
-- [cargo-turbo](https://github.com/drmhse/cargo-turbo) — drop-in cargo wrapper for fast cold builds (95× same-checkout, 65× fresh clone on rust-analyzer) via snapshots and a shared unit store, no cargo/rustc patches.
+- [cargo-turbo](https://github.com/drmhse/cargo-turbo) — drop-in cargo wrapper for fast cold builds (87× same-checkout, 2.5× fresh clone on rust-analyzer) via snapshots and a shared unit store, no cargo/rustc patches.
 - [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui) — desktop endpoint inventory and supply-chain exposure review.
 - [AuthOS Skills](https://github.com/drmhse/authos_skill) — source-verified agent skills for implementing and operating AuthOS.
 - [Local AI Field Guide](https://github.com/drmhse/local-ai) — self-contained guide to local models, runtimes, quantization, hardware, RAG, and agents.
