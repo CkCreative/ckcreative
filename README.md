@@ -8,6 +8,10 @@ Outside work, I build open-source software through [@drmhse](https://github.com/
 
 ## Current open-source projects
 
+### [Dream Fit](https://github.com/drmhse/dream-fit)
+
+Use a Pixel Watch with an iPhone: a Wear OS to iOS bridge over an encrypted BLE GATT link. The watch owns the day's aggregates and the iPhone app mirrors them into HealthKit, with iPhone notifications on the wrist over ANCS and a phone-set step goal driving the watch bezel. SwiftUI + Kotlin, no accounts, no cloud — health data never leaves your devices.
+
 ### [AuthOS](https://github.com/drmhse/AuthOS)
 
 Open-source API and SDK infrastructure for B2B and B2B2C authentication. AuthOS combines a Rust API, standalone Linux and Docker distributions, TypeScript SDKs, framework adapters, and an embedded web client.
@@ -32,6 +36,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 
 ### DRM HSE systems
 
+- [Dream Fit](https://github.com/drmhse/dream-fit) — Pixel Watch to iPhone bridge over an encrypted BLE GATT link, with HealthKit sync and iPhone notifications on the wrist.
 - [AuthOS](https://github.com/drmhse/AuthOS) — Rust authentication infrastructure, SDKs, adapters, deployment bundles, and documentation.
 - [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first Flutter client with publicly downloadable Linux backend releases for agent-driven development work.
 - [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and a LoRA-fine-tuned structured-understanding model.
