@@ -28,6 +28,10 @@ A small cross-platform OCR server for PP-OCRv6 detection and recognition. It use
 
 A local CosyVoice3 HTTP service I optimized to run **2.2× faster**, reaching a faster-than-real-time RTF of **0.757** on Apple silicon. It keeps API state separate from a disposable model worker, runs the LLM stage in MLX while flow decoding and vocoding remain in PyTorch, and supports durable idempotent jobs, seed reproducibility, memory telemetry, and optional WhisperX verification.
 
+### [tts-rs](https://github.com/drmhse/tts-rs)
+
+Three voice-cloning speech models ported to pure Rust with hand-written Metal kernels — no Python at runtime. The default engine narrates an 11-minute chapter in 2m 40s (**RTF ~0.26**), so a 16-hour audiobook costs ~4 hours on a MacBook. Every stage is fixture-gated against PyTorch, whole-book narration from EPUB is resumable and offline, and a verbalisation layer reads code, maths, units, and tables as language.
+
 ### [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui)
 
 A Flutter desktop interface for local developer-machine supply-chain checks using Perplexity's Bumblebee scanner. It provides scan controls, package inventory, exposure findings, diagnostics, history, and threat-catalog management.
@@ -41,7 +45,7 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [AI Code Terminal](https://github.com/drmhse/ai-code-terminal) — mobile-first Flutter client with publicly downloadable Linux backend releases for agent-driven development work.
 - [PP-OCRv6 server for Rust](https://github.com/drmhse/paddle-paddle-v6-ocr-rust) — pure-Rust OCR API with local model caching and a LoRA-fine-tuned structured-understanding model.
 - [FunAudio TTS for Apple silicon](https://github.com/drmhse/tts-funaudio-cozyvoice3) — CosyVoice3 service optimized to run 2.2× faster at RTF 0.757, with a hybrid MLX/PyTorch pipeline and disposable model workers.
-- [tts-rs](https://github.com/drmhse/tts-rs) — local text-to-speech in Rust with voice-cloning speech models, Metal-accelerated on Apple silicon and no Python at runtime.
+- [tts-rs](https://github.com/drmhse/tts-rs) — three voice-cloning models in pure Rust with custom Metal kernels (RTF 0.26), fixture-validated against PyTorch, with resumable offline book narration.
 - [Bumblebee Desktop](https://github.com/drmhse/bumblebee-ui) — desktop endpoint inventory and supply-chain exposure review.
 - [AuthOS Skills](https://github.com/drmhse/authos_skill) — source-verified agent skills for implementing and operating AuthOS.
 - [Local AI Field Guide](https://github.com/drmhse/local-ai) — self-contained guide to local models, runtimes, quantization, hardware, RAG, and agents.
