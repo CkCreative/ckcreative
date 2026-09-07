@@ -70,10 +70,6 @@ A Flutter desktop interface for local developer-machine supply-chain checks usin
 - [Go REST starter](https://github.com/CkCreative/rest) — small starting point for Go APIs.
 - [Useful Linux commands](https://github.com/CkCreative/important_linux_commands) — practical command notes collected from development and server administration work.
 
-### Applications and utilities
-
-- [Binance Spot Trading Bot](https://github.com/CkCreative/binance-spot-trading-bot) — configurable Node.js spot-trading experiment with Docker, notifications, and a control UI. This is alpha software, not financial advice.
-
 ## Open-source focus
 
 My personal projects currently explore:
